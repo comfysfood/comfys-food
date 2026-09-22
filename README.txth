@@ -1,0 +1,3 @@
+Comfy's Food website
+Open index.html in a browser. Replace image URLs, menu items, and WhatsApp number as needed.
+The WhatsApp chatbot is a lightweight contact assistant that opens a pre-filled WhatsApp conversation; a true AI chatbot would require a backend/API integration.
